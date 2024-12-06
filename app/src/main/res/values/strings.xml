@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_toolbar">Hello, Toolbar!</string>
+    <string name="settings">Settings</string>
+    <string name="my_toolbar_title">Movies app</string>
+    <string name="sign_in">sign in</string>
+
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="todo">TODO</string>
+    <string name="more">more</string>
+    <string-array name="spiners_items">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+    </string-array>
+</resources>
